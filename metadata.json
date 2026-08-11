@@ -1,0 +1,6 @@
+{
+  "name": "NexaAI Developer Platform",
+  "description": "Minimalist AI Studio, Workflow Builder, Model Playground, API Key Management, and Code Generator powered by Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
