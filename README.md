@@ -25,9 +25,6 @@ A modern AI SaaS platform UI designed and developed for portfolio purposes.
 
 UI/UX designed.
 
-## Live Demo
-
-
 
 ## Screenshots
 
